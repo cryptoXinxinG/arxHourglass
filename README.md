@@ -1,6 +1,5 @@
 # Supplementary Materials for the Asiacrypt 2025 paper
-Supporting data and verification codes for the analyzed ARX ciphers.
-
+We provide the supporting data and verification codes for the analyzed ARX ciphers.
 
 The source codes for verifying our results are given in the `Codes` folder. 
 The related output results after tests are given in the folder named ('targetCipher'+results), a total of 11 ones.
