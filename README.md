@@ -2,7 +2,7 @@
 We provide the supporting data and verification codes for the analyzed ARX ciphers.
 
 The source codes for verifying our results are given in the `Codes` folder. 
-The related output results after tests are given in the folder named ('targetCipher'+results), a total of 11 ones.
+The related output results after tests are given in the folder named ('targetCipher'+results), and there are a total of 11 such folders.
  
 
 For example, we provide all the results involved in Section 5.1 in folders (‘Speck32 Results’), (‘Speck48 Results’), (‘Speck64 Results’), (‘Speck96 Results’), (‘Speck128 Results’), respectively, where the SUBs sets, the experimental DL correlations, etc. are included. Besides, we also provide the theoretical DC trails ending with 1-bit output differences and the LC trails starting with 1-bit or consecutive 2-bit input masks derived from the MILP-based approach during our constructions of the hourglass(-like) structural DL distinguishers. Moreover, some intermediate results are also given. 
